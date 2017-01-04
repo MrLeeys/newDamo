@@ -667,13 +667,3 @@ public class MovieModel implements MovieContract.IMovieModel {
                 });
     }
 }
-
-```
-###七、Demo下载
->有一些简单的代码就没有贴出来,可以下demo去看一下
-
-这是demo的GitHub的地址 https://github.com/huangdali/newkjdemo/ 
-如果没有翻墙的话:[点击这里下载Demo](http://download.csdn.net/detail/qq137722697/9603662)
-
-代码有误的地方请多多指出，共同进步，有问题的请留言、评论。
-# newDamo
